@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1507301804 source:c:\users\z\desktop\maritan\roteiro 8\r8q2\main.cpp
+	<iostream>
+	<string>
+	"Endereco.h"
+	"Apartamento.h"
+	"Casa.h"
+	"Terreno.h"
+	"Imovel.h"
+
+1507301557 source:c:\users\z\desktop\maritan\roteiro 8\r8q2\src\apartamento.cpp
+	"Apartamento.h"
+	<iostream>
+
+1506919304 c:\users\z\desktop\maritan\roteiro 8\r8q2\include\apartamento.h
+	"Imovel.h"
+
+1507302719 source:c:\users\z\desktop\maritan\roteiro 8\r8q2\src\casa.cpp
+	"Casa.h"
+	<iostream>
+	<string>
+
+1507090060 c:\users\z\desktop\maritan\roteiro 8\r8q2\include\casa.h
+	"Imovel.h"
+
+1507150547 c:\users\z\desktop\maritan\roteiro 8\r8q2\include\imovel.h
+	"Endereco.h"
+	<string>
+	<stdio.h>
+
+1507302406 c:\users\z\desktop\maritan\roteiro 8\r8q2\include\endereco.h
+	<string>
+
+1507302406 source:c:\users\z\desktop\maritan\roteiro 8\r8q2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1507302827 source:c:\users\z\desktop\maritan\roteiro 8\r8q2\src\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1507301557 source:c:\users\z\desktop\maritan\roteiro 8\r8q2\src\terreno.cpp
+	"Terreno.h"
+	<iostream>
+
+1506919718 c:\users\z\desktop\maritan\roteiro 8\r8q2\include\terreno.h
+	"Imovel.h"
+
+1507150796 source:d:\roteiro 8\r8q2\main.cpp
+	<iostream>
+	<string>
+	"Endereco.h"
+	"Apartamento.h"
+	"Casa.h"
+	"Terreno.h"
+	"Imovel.h"
+
+1507068283 d:\roteiro 8\r8q2\include\endereco.h
+	<string>
+
+1506919304 d:\roteiro 8\r8q2\include\apartamento.h
+	"Imovel.h"
+
+1507150547 d:\roteiro 8\r8q2\include\imovel.h
+	"Endereco.h"
+	<string>
+	<stdio.h>
+
+1507090060 d:\roteiro 8\r8q2\include\casa.h
+	"Imovel.h"
+
+1506919718 d:\roteiro 8\r8q2\include\terreno.h
+	"Imovel.h"
+
+1507150881 source:d:\roteiro 8\r8q2\src\apartamento.cpp
+	"Apartamento.h"
+	<iostream>
+
+1507150557 source:d:\roteiro 8\r8q2\src\casa.cpp
+	"Casa.h"
+	<iostream>
+	<string>
+
+1507068283 source:d:\roteiro 8\r8q2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1507150547 source:d:\roteiro 8\r8q2\src\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1506919718 source:d:\roteiro 8\r8q2\src\terreno.cpp
+	"Terreno.h"
+	<iostream>
+
+1507301610 source:e:\roteiro 8\r8q2\main.cpp
+	<iostream>
+	<string>
+	"Endereco.h"
+	"Apartamento.h"
+	"Casa.h"
+	"Terreno.h"
+	"Imovel.h"
+
+1507068283 e:\roteiro 8\r8q2\include\endereco.h
+	<string>
+
+1506919304 e:\roteiro 8\r8q2\include\apartamento.h
+	"Imovel.h"
+
+1507150547 e:\roteiro 8\r8q2\include\imovel.h
+	"Endereco.h"
+	<string>
+	<stdio.h>
+
+1507090060 e:\roteiro 8\r8q2\include\casa.h
+	"Imovel.h"
+
+1506919718 e:\roteiro 8\r8q2\include\terreno.h
+	"Imovel.h"
+
+1507301557 source:e:\roteiro 8\r8q2\src\apartamento.cpp
+	"Apartamento.h"
+	<iostream>
+
+1507301557 source:e:\roteiro 8\r8q2\src\casa.cpp
+	"Casa.h"
+	<iostream>
+	<string>
+
+1507068283 source:e:\roteiro 8\r8q2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1507150547 source:e:\roteiro 8\r8q2\src\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1507301557 source:e:\roteiro 8\r8q2\src\terreno.cpp
+	"Terreno.h"
+	<iostream>
+

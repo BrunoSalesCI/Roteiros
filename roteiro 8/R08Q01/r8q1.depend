@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1506876795 source:c:\users\z\desktop\maritan\roteiro 8\r8q1\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+
+1506877589 source:c:\users\z\desktop\maritan\roteiro 8\r8q1\src\conta.cpp
+	"Conta.h"
+	<iostream>
+	<string>
+
+1506870989 c:\users\z\desktop\maritan\roteiro 8\r8q1\include\conta.h
+	<string>
+	"IConta.h"
+
+1506806186 c:\users\z\desktop\maritan\roteiro 8\r8q1\include\iconta.h
+
+1506803937 source:c:\users\z\desktop\maritan\roteiro 8\r8q1\src\iconta.cpp
+	"IConta.h"
+
+1506871588 source:c:\users\z\desktop\maritan\roteiro 8\r8q1\src\contaespecial.cpp
+	"ContaEspecial.h"
+	<iostream>
+
+1506871653 c:\users\z\desktop\maritan\roteiro 8\r8q1\include\contaespecial.h
+	"Conta.h"
+

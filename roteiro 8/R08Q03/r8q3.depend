@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1506917702 source:e:\roteiro 8\r8q3\main.cpp
+	<iostream>
+
+1507307799 source:e:\roteiro 8\r8q3\src\assalariado.cpp
+	"Assalariado.h"
+	<iostream>
+
+1507307799 e:\roteiro 8\r8q3\include\assalariado.h
+	"Funcionario.h"
+
+1507308664 e:\roteiro 8\r8q3\include\funcionario.h
+	<string>
+
+1507307902 source:e:\roteiro 8\r8q3\src\comissionado.cpp
+	"Comissionado.h"
+	<iostream>
+
+1507307799 e:\roteiro 8\r8q3\include\comissionado.h
+	"Funcionario.h"
+
+1507307798 source:e:\roteiro 8\r8q3\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1507307957 source:e:\roteiro 8\r8q3\src\funcionarionaoexisteexception.cpp
+	"FuncionarioNaoExisteException.h"
+
+1507307957 e:\roteiro 8\r8q3\include\funcionarionaoexisteexception.h
+	<exception>
+
+1507307799 source:e:\roteiro 8\r8q3\src\hortista.cpp
+	"Hortista.h"
+	<iostream>
+
+1507307799 e:\roteiro 8\r8q3\include\hortista.h
+	"Funcionario.h"
+
+1507307957 source:e:\roteiro 8\r8q3\src\orcamentoestouradoexception.cpp
+	"OrcamentoEstouradoException.h"
+
+1507307957 e:\roteiro 8\r8q3\include\orcamentoestouradoexception.h
+	<exception>
+
+1507308664 source:e:\roteiro 8\r8q3\src\sistemagerenciafolga.cpp
+	"SistemaGerenciaFolga.h"
+	<iostream>
+
+1507308409 e:\roteiro 8\r8q3\include\sistemagerenciafolga.h
+	"Funcionario.h"
+
